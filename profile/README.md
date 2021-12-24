@@ -9,4 +9,4 @@ Now that we have a few platforms up and running in our on-prem Cloud, we would l
 with the FPGA research community around the world. If you want to experiment or start working with
 such a cluster of network-attached FPGAs, please get in touch with us.
 
-The cloudFPFA documentation is available as **GitHub** Pages at: https://cloudfpga.github.io/Doc/
+The cloudFPGA documentation is available as **GitHub** Pages at: https://cloudfpga.github.io/Doc/
