@@ -5,7 +5,7 @@ Welcome to **cloudFPGA**. This organization hosts a set of repositories and proj
 We built the cloudFPGA platform because we wanted to research the use and the deployment of 
 standalone network-attached FPGAs in the Cloud, but could not find suitable off-the-shelf hardware.
 
-Now that we have a cloudFPGA system up and running in our research Cloud, we would like to share it  
+Now that we have a cloudFPGA system up and running in our research Cloud, we would like to share it 
 with the FPGA research community around the world. If you want to experiment or start working with
 such a cluster of network-attached FPGAs, please get in touch with us.
 
