@@ -1,4 +1,4 @@
-![Banner for cF](./imgs/banner.png)
+![Banner for cF](https://github.com/cloudFPGA/.github/blob/master/imgs/banner.png)
 
 Welcome to **cloudFPGA**. This organization hosts a set of repositories and projects related to the [cloudFPGA system](https://www.zurich.ibm.com/cci/cloudFPGA/), a disaggregated data processing platform based on standalone and network attached FPGAs in the Cloud.
 
